@@ -9,9 +9,11 @@
 - Bachelor's Degree in Chemical Engineering at the University of Puerto Rico - Mayagüez
 
 ## [Project 1: Airline Sentiment Analysis in Twitter](https://airline-sentiments.herokuapp.com/)
-- This is a Streamlit dashboard developed to visualize sentiment analysis of tweets about 6 airlines
-
-You can use the [editor on GitHub](https://github.com/ldruizsan/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+- This is a dashboard developed to visualize sentiment analysis of tweets about 6 airlines
+- Python libraries used: Pandas, Streamlit, Matplotlib, Plotly Express
+- Input: csv file with Tweets
+- Output: Sentiment of airlines
+- Repository can be found [here](https://github.com/ldruizsan/airlines-sentiment)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
