@@ -20,7 +20,7 @@ Photo by <a href="https://unsplash.com/@snowjam?utm_source=unsplash&utm_medium=r
 - Repository can be found [here](https://github.com/ldruizsan/airlines-sentiment)
 
 ## [Project 2: Visualizing US Pollution Data 2000-2016](https://gist.github.com/ldruizsan/56cbce888b288daefd14a27d73c8b479)
-![IMG](https://github.com/ldruizsan/Portfolio/blob/main/kouji-tsuru--CwiIE7D5Qk-unsplash.jpg)
+![IMG](kouji-tsuru--CwiIE7D5Qk-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@pafuxu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kouji Tsuru</a> on <a href="https://unsplash.com/s/photos/pollution?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
