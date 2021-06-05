@@ -9,6 +9,10 @@
 - Bachelor's Degree in Chemical Engineering at the University of Puerto Rico - Mayagüez
 
 ## [Project 1: Airline Sentiment Analysis in Twitter](https://airline-sentiments.herokuapp.com/)
+[!IMG](https://github.com/ldruizsan/Portfolio/blob/main/john-mcarthur-PrdNTrIrG8w-unsplash.jpg)
+
+Photo by <a href="https://unsplash.com/@snowjam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">John McArthur</a> on <a href="https://unsplash.com/s/photos/air-travel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 - This is a dashboard developed to visualize sentiment analysis of tweets about 6 airlines
 - Python libraries used: Pandas, Streamlit, Matplotlib, Plotly Express
 - Input: csv file with Tweets
