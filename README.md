@@ -38,3 +38,8 @@ Photo by <a href="https://unsplash.com/@pafuxu?utm_source=unsplash&utm_medium=re
 - A fourth strategy combines the first 3 to estimate the impact
 - The model showed that, individually, the first strategy provided the largest revenue growth by over $200 million. However, combining all three is expected to grow by over $400 million.
 - The project also includes an employee dashboard that allows to look up performance of any single account executive and a dashboard to evaluate the performance of executives by level
+
+## [Project 4: Maven Analytics Toy Challenge Tableau Dashboard](https://public.tableau.com/app/profile/luis.ruiz.santiago/viz/MavenMexicoToyStoreChallenge/MavenToyCompanyinMexico)
+- This is my submission for Maven Analytics' Toys challenge and we we tasked with providing insight into possible expansion strategies for the company
+- My analysis showed the company has a lot of inventory at hand and identified three cities in Mexico that can be considered for opening new stores that are closer to high-volume areas and can also help distribute excess inventory
+- For a full description of the situation, make sure to check my [LinkedIn post](https://www.linkedin.com/posts/luisruiz1_maventoyschallenge-activity-6800563436620267520-6hk3)
