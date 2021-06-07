@@ -28,3 +28,13 @@ Photo by <a href="https://unsplash.com/@pafuxu?utm_source=unsplash&utm_medium=re
 - Python libraries used: Pandas, Matplotlib, Seaborn, Scipy.Stats
 - Input: concentration levels by location for ground-level ozone, sulfur dioxide, nitrogen oxide, and carbon monoxide along the Air Quality Index (AQI) for each
 - Output: Visualization of trends using lineplots and measure statistical significances
+
+## [Project 3: HR Model Development for new commission structure](https://drive.google.com/file/d/1n1fFSaahajSvQBpIWrrh4Mkkgloesfou/view?usp=sharing)
+- This project evaluated performance of account executives and developed models for a new sales commission structure for the new fiscal year
+- Three strategies were considered:
+  - Assume the company is increasing the book of business, no increase in headcount, same compensation structure
+  - Modify the compensation structure with the same target revenue (no BoB growth) and no increase in headcount
+  - Increase headcount while keeping the same structure and book of business
+- A fourth strategy combines the first 3 to estimate the impact
+- The model showed that, individually, the first strategy provided the largest revenue growth by over $200 million. However, combining all three is expected to grow by over $400 million.
+- The project also includes an employee dashboard that allows to look up performance of any single account executive and a dashboard to evaluate the performance of executives by level
