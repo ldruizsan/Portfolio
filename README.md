@@ -1,7 +1,6 @@
 # Luis Ruiz-Santiago
-## -------------------------------------------------------------
+## ___________________________________________
 ## Welcome to my portfolio page
-## -------------------------------------------------------------
 
 ## Education
 - Data Analytics Immersion Program at Thinkful
