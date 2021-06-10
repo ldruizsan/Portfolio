@@ -30,6 +30,8 @@ Photo by <a href="https://unsplash.com/@pafuxu?utm_source=unsplash&utm_medium=re
 - Output: Visualization of trends using lineplots and measure statistical significances
 
 ## [Project 3: HR Model Development for new commission structure](https://drive.google.com/file/d/1n1fFSaahajSvQBpIWrrh4Mkkgloesfou/view?usp=sharing)
+![IMG](dylan-gillis-KdeqA3aTnBY-unsplash.jpg)
+Photo by <a href="https://unsplash.com/@dylandgillis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dylan Gillis</a> on <a href="https://unsplash.com/s/photos/human-resource?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 - This project evaluated performance of account executives and developed models for a new sales commission structure for the new fiscal year
 - Three strategies were considered:
   - Assume the company is increasing the book of business, no increase in headcount, same compensation structure
@@ -40,6 +42,8 @@ Photo by <a href="https://unsplash.com/@pafuxu?utm_source=unsplash&utm_medium=re
 - The project also includes an employee dashboard that allows to look up performance of any single account executive and a dashboard to evaluate the performance of executives by level
 
 ## [Project 4: Maven Analytics Toy Challenge Tableau Dashboard](https://public.tableau.com/app/profile/luis.ruiz.santiago/viz/MavenMexicoToyStoreChallenge/MavenToyCompanyinMexico)
+![IMG](yulia-matvienko-kgz9vsP5JCU-unsplash.jpg)
+Photo by <a href="https://unsplash.com/@yuliamatvienko?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Yulia Matvienko</a> on <a href="https://unsplash.com/s/photos/toys?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 - This is my submission for Maven Analytics' Toys challenge and we we tasked with providing insight into possible expansion strategies for the company
 - My analysis showed the company has a lot of inventory at hand and identified three cities in Mexico that can be considered for opening new stores that are closer to high-volume areas and can also help distribute excess inventory
 - For a full description of the situation, make sure to check my [LinkedIn post](https://www.linkedin.com/posts/luisruiz1_maventoyschallenge-activity-6800563436620267520-6hk3)
