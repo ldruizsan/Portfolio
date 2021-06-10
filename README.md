@@ -1,7 +1,7 @@
 # Luis Ruiz-Santiago
 ## ________________________________________________________________________
 ## Welcome to my portfolio page
-
+This page will feature some of the work I have done using Python, Excel, and Tableau. For Tableau, don't forget to check my [Tableau Public page!](https://public.tableau.com/profile/luis.ruiz.santiago#!/)
 ## Education
 - Data Analytics Immersion Program at Thinkful
 - IBM Data Analyst Professional Certificate
