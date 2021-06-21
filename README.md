@@ -47,3 +47,9 @@ Photo by <a href="https://unsplash.com/@yuliamatvienko?utm_source=unsplash&utm_m
 - This is my submission for Maven Analytics' Toys challenge and we we tasked with providing insight into possible expansion strategies for the company
 - My analysis showed the company has a lot of inventory at hand and identified three cities in Mexico that can be considered for opening new stores that are closer to high-volume areas and can also help distribute excess inventory
 - For a full description of the situation, make sure to check my [LinkedIn post](https://www.linkedin.com/posts/luisruiz1_maventoyschallenge-activity-6800563436620267520-6hk3)
+
+## [Project 5: Python for Finance: Capital Assets Pricing Model and Beta](https://github.com/ldruizsan/python-capm-finance)
+![IMG](https://github.com/ldruizsan/Portfolio/blob/main/ishant-mishra-UXEJDX4SqdE-unsplash.jpg)
+Photo by <a href="https://unsplash.com/@ishant_mishra54?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ishant Mishra</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- This was a project that analyzed stock daily returns for 6 major tech stocks and compare their performance to that of the S&P500
+- Parameter Beta was calculated using CAPM for each stock to determine volatility relative to the market
