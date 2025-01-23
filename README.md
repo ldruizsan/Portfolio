@@ -8,7 +8,7 @@ This page will feature some of the work I have done using Python, Excel, and Tab
 - Master's Degree in Chemical Engineering at the University of Rochester - River Campus
 - Bachelor's Degree in Chemical Engineering at the University of Puerto Rico - Mayagüez
 
-## [Project 1: Airline Sentiment Analysis in Twitter][(https://airline-sentiments.herokuapp.com/](https://airlines-sentiment-001.streamlit.app/))
+## [Project 1: Airline Sentiment Analysis in Twitter][(https://airlines-sentiment-001.streamlit.app/)
 ![IMG](john-mcarthur-PrdNTrIrG8w-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@snowjam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">John McArthur</a> on <a href="https://unsplash.com/s/photos/air-travel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
